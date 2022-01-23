@@ -1,5 +1,5 @@
 # meet-chat-prevention
-meetのチャット欄で他人のなりすましができちゃうのでそれを防止する5秒で作ったgoogle拡張機能。
+meetのチャット欄で他人のなりすましができちゃうのでそれを防止する __5秒__ で作ったgoogle拡張機能。  
 An instant tool that can prevent people from impersonating others in the meet chat section.   
 
 
